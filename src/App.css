@@ -23,7 +23,7 @@
 .App-body {
   margin: auto;
   text-align: left;
-  width: 70%;
+  width: 80%;
   background-color: #f9f9f9;
   border: 2px groove gray;
   border-top: none;
@@ -34,4 +34,8 @@
   padding: 20px;
   padding-top: 0px;
   padding-bottom: 60px;
+}
+
+.table {
+  text-align: center;
 }
