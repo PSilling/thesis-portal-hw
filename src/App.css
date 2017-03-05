@@ -30,7 +30,7 @@
 }
 
 .App-body-table {
-    height: calc(100vh - 225px);
+  height: calc(100vh - 225px);
   padding: 20px;
   padding-top: 0px;
   padding-bottom: 60px;
